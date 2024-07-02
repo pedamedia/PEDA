@@ -1,25 +1,13 @@
 
 Política de Privacidad para Plan de Estudios y Datos Academicos (PEDA)
 
-Fecha de vigencia: 10/01/2024
-
 1. Información recopilada
 
 1.1 Sin recopilación de información personal: La aplicación PEDA opera completamente offline y no recopila información personal identificable del usuario.
 
-1.2 Uso de la aplicación: PEDA puede recopilar información sobre el uso de la aplicación de forma anónima y local para mejorar la experiencia del usuario.
-
-2. Uso de la información
-
-2.1 Mejora de la aplicación: La información recopilada de forma anónima se utiliza exclusivamente para mejorar la funcionalidad y el rendimiento de la aplicación PEDA.
-
 3. Compartir información
 
 3.1 Sin compartición de datos: No compartimos información personal identificable ni datos recopilados con terceros. Todos los datos permanecen localmente en el dispositivo del usuario.
-
-4. Seguridad
-
-4.1 Seguridad de datos: Se han implementado medidas de seguridad para proteger la información recopilada de forma anónima contra accesos no autorizados o divulgación.
 
 5. Cambios en la política de privacidad
 
